@@ -3,7 +3,7 @@
 ## Installation
 
 ```bash
-cd ~/.config/nvim/lua/plugins/ && git clone https://github.com/shaneing/lazyvim-plugins-config.git .
+mv ~/.config/nvim/lua/plugins ~/.config/nvim/lua/plugins.bak && cd ~/.config/nvim/lua && git clone https://shaning@github.com/shaneing/lazyvim-plugins-config.git plugins
 ```
 
 
